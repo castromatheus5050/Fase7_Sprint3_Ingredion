@@ -23,6 +23,8 @@ O projeto foi desenvolvido como parte do curso de Inteligência Artificial da FI
 - `Sprint3_Ingredion/`: Jupyter com análises esperadas no projeto
 - `Sprint3/`: PDF com explicação teórica sobre análise feita.
 
+## 📜 Para rodar modelo e análises
+- Faça download da pasta "base" e suba-o no Jupyter para que tudo rode fluidamente.
 
 
 ## 🗃 Histórico de versões
